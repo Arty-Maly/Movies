@@ -13,4 +13,4 @@ So i decided to treat a close guess as a failure and started caring more about n
 Disadvantages of this approach is that I will have a higher mean error and deviation, although number of correct guesses is higher.
 
 
-My algorithm is pretty slow taking about 18 minutes to finish (estimated by Time.now())
+My algorithm is pretty slow taking about 18 minutes to finish (estimated by Time.now()) (using the full data set)
